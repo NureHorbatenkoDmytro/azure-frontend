@@ -20,7 +20,7 @@ const Home = () => {
         <h2 className="text-2xl font-semibold mb-4">Welcome to FloraSense</h2>
         <p className="text-center text-gray-700 mb-8">
           Monitor and manage the microclimate of your home plants easily and
-          efficiently.
+          efficiently. asdasd
         </p>
         <div className="flex space-x-4">
           <button
